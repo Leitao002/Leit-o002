@@ -1,7 +1,7 @@
 # Hi, I'm Nuno 👋
 Get to know me and my stuff!
 
-I'm a Transport Engineering student in Lisbon, interested in urban mobility, spatial analysis and data-driven planning, with a link between Lisbon and Luanda.
+I'm a Transport Engineering student based in Lisbon with strong ties to Luanda.
 
 ## 🎓 Education
 - **MSc in Transportation Systems**, Instituto Superior Técnico (IST), Lisbon
